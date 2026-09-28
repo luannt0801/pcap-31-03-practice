@@ -1,0 +1,3 @@
+PIG is a domestic animal.
+LION is a wild animal.
+FOX is a wild animal that is sometimes kept as a pet. 
