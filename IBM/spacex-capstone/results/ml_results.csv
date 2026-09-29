@@ -1,0 +1,5 @@
+Model,Validation Accuracy,Test Accuracy
+Logistic Regression,0.8464,0.8333
+SVM,0.8482,0.8333
+Decision Tree,0.8482,0.8333
+KNN,0.8482,0.8333
